@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## 张靖
+女|1989年10月|现居住于：北京
+4年工作经验
+188-0123-9532
+E-mail: 18801239532@163.com
 
-You can use the [editor on GitHub](https://github.com/zhangjing12300/zhangjing.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 求职意向
+工作性质：全职
+期望职业：web前端开发
+期望行业：互联网/电子商务
+工作地区：北京
+期望月薪：面议
+目前状况：目前处于离职状态，可立即上岗
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 自我评价
+    四年的前端开发经验中，写过pc端、移动端、响应式页面。主要负责页面的布局，使用sass进行样式的编译，熟练使用javascript(oop),实现页面的交互效果；熟悉主流的MVVM框架，其中vue、angular有项目开发经验；熟练使用gulp、webpack构建工具，对网站进行优化；用weinre调试工具做后期的测试。使用svn、git版本控制工具，进行团队协作开发
 
-### Markdown
+## 工作经历
+## 2015/03 - 至今
+## 北京华宇泰聚科技有限公司 | web前端
+工作描述：
+    使用javascript语言及jQuery实现页面交互效果；实现相关模块的开发；依据产品需求完成前端的开发和维护；优化代码并兼容各主流浏览器
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangjing12300/zhangjing.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 2012/06 - 2015/03
+## 石家庄求实通信设备有限公司 | web前端
+工作描述：
+    基于html+css标准进行主要模块页面的搭建；负责功能模块的开发、代码编写；持续优化系统在各平台下的兼容性和执行效率
+    
+## 项目经验
+## (一)童服管(APP)
+项目职责：
+    此项目是用vue+webpack构建。主要负责分类模块，用自定义过滤实现课程搜索，并用router-link实现路由跳转；在与后台同步开发的过程中用到了vuex来进行数据管理来实现相关页面的数据渲染
+项目简介：
+    童服馆是一款儿童服装在线选购的app
+## (二)中医古籍(APP)
+项目职责：
+    此项目使用angular完成项目的搭建。我主要负责的是登陆注册模块以及页面的搭建和效果的实现；在商品展示模块中，使用ajax来获取接口参数渲染后台数据，实现数据的有效对接；使用ui-router实现路由的嵌套；使用图片懒加载来提高网页性能
+项目简介：
+    童服馆是一款儿童服装在线选购的app
+## (三)时光课堂(APP)
+项目职责：
+    负责页面的搭建及维护；使用javascript和jQuery实现页面的交互效果；使用swiper和iscroll来实现轮播和下拉加载的效果；使用ajax配合后台实现页面的异步请求局部刷新。
+项目简介：
+    时光课堂专注于直播在线教育和即时的互动教学体验，涵盖多个类别多个机构的优质课程
+## (四)求实通信官网(PC)
+项目职责：
+    使用jQuery完成页面的交互。主要负责企业简介和产品展示模块，实现页面的交互效果及终端设备的适配。负责页面兼容各大主流浏览器
+## 教育经历
+2007.09-2011.06  石家庄学院 | 经济管理| 本科 
